@@ -1,0 +1,28 @@
+{
+  "name": "FrozenRiver",
+  "version": "0.0.0",
+  "description": "Weather bot for twitter",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HumbleCookie/FrozenRiver.git"
+  },
+  "author": "Nicholas Bush <nickdbush@hotmail.co.uk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HumbleCookie/FrozenRiver/issues"
+  },
+  "homepage": "https://github.com/HumbleCookie/FrozenRiver",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "ejs": "^2.3.4",
+    "express": "^4.13.3",
+    "marked": "^0.3.5",
+    "request": "^2.65.0",
+    "twit": "^2.1.0",
+    "urlencode": "^1.1.0"
+  }
+}
